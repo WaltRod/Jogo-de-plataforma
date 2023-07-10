@@ -19,7 +19,7 @@
     animation: ghost-animation 2s infinite linear;
 }
 .girl{
-    width: 150px;
+    width: 120px;
     position: absolute;
     bottom: 0px;
 }
